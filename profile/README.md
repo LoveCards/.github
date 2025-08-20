@@ -15,7 +15,7 @@
 
 </div>
 
-[![public-beta](https://youke1.picui.cn/s1/2025/08/20/68a58e9b72f65.png)](https://lobechat.com)
+[![public-beta](https://youke1.picui.cn/s1/2025/08/20/68a58e9b72f65.png)](https://lovecards.cn)
 
 [image-overview]: https://youke1.picui.cn/s1/2025/08/20/68a58e9d82ca0.png
 [image-star]: https://youke1.picui.cn/s1/2025/08/20/68a58e961f48c.png
