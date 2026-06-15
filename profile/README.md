@@ -3,19 +3,19 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://youke1.picui.cn/s1/2025/08/20/68a595eaaf9ed.png">
-  <img height="90" src="https://youke1.picui.cn/s1/2025/08/20/68a595eaaf9ed.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.cdn1.vip/i/6a2f73242f97f_1781494564.png">
+  <img height="90" src="https://img.cdn1.vip/i/6a2f73242f97f_1781494564.png">
 </picture>
 
 小众不再小众的时代，一人也能点亮一个小宇宙
 
-[主页][lovecard-link] · [论坛][lovecard-forum-link] · [QQ 群组][lovecard-qqgroup-link]
+[🏠主页][lovecard-link] · [🏘️论坛][lovecard-forum-link] · [🐧QQ 群组][lovecard-qqgroup-link]
 
-![](https://youke1.picui.cn/s1/2025/08/20/68a5972b2df49.png)
+![](https://img.cdn1.vip/i/6a2f727da6c0c_1781494397.png)
 
 </div>
 
-[![public-beta](https://youke1.picui.cn/s1/2025/08/20/68a58e9b72f65.png)](https://lovecards.cn)
+[![public-beta](https://img.cdn1.vip/i/6a2f731292105_1781494546.png)](https://lovecards.cn)
 
 [image-overview]: https://youke1.picui.cn/s1/2025/08/20/68a58e9d82ca0.png
 [image-star]: https://youke1.picui.cn/s1/2025/08/20/68a58e961f48c.png
